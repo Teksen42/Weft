@@ -22,7 +22,7 @@ I worked on the backend in **C#** and **.NET**, on the frontend, and on testing 
 
 ## Running on Azure
 
-The API runs on **Azure App Service** with **Azure SQL** and sign in through **Entra ID**. The platform is live, and the product features are being finished before release. The app is not released yet: it is coming to the App Store and Google Play, and [weft.azurewebsites.net](https://weft.azurewebsites.net) has a waitlist.
+I built the platform on Azure: a **.NET 8** API, **Azure SQL** through managed identity with no passwords, **Entra ID** sign in, **Bicep** and **GitHub Actions**. The platform runs today, and the product features are being finished before release. The app is not released yet: it is coming to the App Store and Google Play, and [weft.azurewebsites.net](https://weft.azurewebsites.net) has a waitlist.
 
 ## Screenshots
 
@@ -42,10 +42,13 @@ The API runs on **Azure App Service** with **Azure SQL** and sign in through **E
 
 <p>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
   <img src="https://img.shields.io/badge/Azure%20App%20Service-0078D4?style=flat-square" alt="Azure App Service" />
   <img src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=flat-square" alt="Azure SQL" />
   <img src="https://img.shields.io/badge/Entra%20ID-0078D4?style=flat-square" alt="Entra ID" />
+  <img src="https://img.shields.io/badge/Bicep-0078D4?style=flat-square" alt="Bicep" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
 
 ---
